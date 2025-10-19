@@ -1,0 +1,5 @@
+{
+  "name": "FinCoach AI",
+  "description": "A mobile-first app for gig workers and individuals with irregular income to manage finances. It tracks transactions, visualizes spending, and provides AI-powered financial coaching using the Gemini API to offer insights on savings and smart investments.",
+  "requestFramePermissions": []
+}
